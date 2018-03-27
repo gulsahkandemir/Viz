@@ -5,12 +5,12 @@
   "main": "viz.v1.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NPashaP/Viz.git"
+    "url": "git+https://github.com/gulsahkandemir/Viz.git"
   },
   "author": "NPashaP",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/NPashaP/Viz/issues"
+    "url": "https://github.com/gulsahkandemir/Viz/issues"
   },
-  "homepage": "https://github.com/NPashaP/Viz#readme"
+  "homepage": "https://github.com/gulsahkandemir/Viz#readme"
 }
