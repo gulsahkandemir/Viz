@@ -1,0 +1,16 @@
+{
+  "name": "d3-vizjs",
+  "version": "1.0.0",
+  "description": "A collection of layouts and templates for data visualization using D3",
+  "main": "viz.v1.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NPashaP/Viz.git"
+  },
+  "author": "NPashaP",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/NPashaP/Viz/issues"
+  },
+  "homepage": "https://github.com/NPashaP/Viz#readme"
+}
